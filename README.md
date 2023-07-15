@@ -19,3 +19,12 @@ Before deploying the landing page, you may need to configure certain settings. F
 
 
 #To-Do List-
+
+TodoList
+TodoList is a simple command-line application that helps you manage your daily tasks and stay organized. You can create, view, update, and delete tasks using the application.
+
+Features
+Add a new task.
+View all tasks.
+Mark a task as complete.
+Delete a task.
