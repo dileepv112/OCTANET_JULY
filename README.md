@@ -1,5 +1,6 @@
 # OCTANET_JULY
 
+#Landing Page-
 Welcome to the landing page repository! This README file will provide you with information on how to set up and customize the landing page.
 
 
@@ -15,3 +16,6 @@ Before deploying the landing page, you may need to configure certain settings. F
 *Locate the "Configuration" section near the top of the file.
 *Modify the values of the configuration variables according to your requirements.
 *Save the changes.
+
+
+#To-Do List-
